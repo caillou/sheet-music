@@ -1,4 +1,10 @@
 \version "2.24.4"
+\header {
+  title = "HAPPY BIRTHDAY"
+  composer = "Patty and Mildred J. Hill"
+  tagline = ""
+}
+
 <<
 \chords {
   \time 3/4
